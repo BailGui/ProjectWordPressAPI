@@ -22,6 +22,11 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+		<!-- Handmade Scripts -->
+			<script src="assets/js/cf2m.js"></script>
+
+		<!-- JS spécifique -->
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js"integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="crossorigin="anonymous"></script>
 
 	</body>
 </html> 
