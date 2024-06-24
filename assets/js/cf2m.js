@@ -11,11 +11,17 @@ $(document).ready(function(){
         console.log(temoins);
         temoins.foreach(function(element){
             console.log(element);
-            $('#boucle-temoignages').append();
+            $('#boucle-temoignages').append(blocTemoignage(element));
         });
     });
  }
 
+ function blocTemoignage(elem){
+    let bloc = '';
+ }
+
 });
+
+
 
  
