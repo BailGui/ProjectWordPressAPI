@@ -12,11 +12,15 @@ add_action('after_setup_theme', 'cf2m_init_theme');
 function cf2m_URL_image_en_avant($data) {
     $image_id = $data->data['featured_media'];
     $image_url = wp_get_attachment_image_src($image_id, 'medium large');
+    if ($image_url) {
+        $data->data('Image_en_avant') = $image_url[0];
+    }
 
     return $data;
 
 }
-add_filter('rest_prepare_temoignage', cf2m_URL_image_en_avant, 10, 1);
+add_filter('rest_prepare_temoignage', 'cf2m_URL_image_en_avant', 10, 1);
+
 
 // Ajouter un nouveau type de données : Projet
 function ajouterType_Temoignages() {
