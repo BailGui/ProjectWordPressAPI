@@ -13,7 +13,7 @@ function cf2m_URL_image_en_avant($data) {
     $image_id = $data->data['featured_media'];
     $image_url = wp_get_attachment_image_src($image_id, 'medium large');
     if ($image_url) {
-        $data->data('Image_en_avant') = $image_url[0];
+        $data->data['Image_en_avant'] = $image_url[0];
     }
 
     return $data;
