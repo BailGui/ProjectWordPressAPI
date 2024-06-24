@@ -11,8 +11,12 @@ add_action('after_setup_theme', 'cf2m_init_theme');
 // Création de l'URL de l'image mis en avant 
 function cf2m_URL_image_en_avant($data) {
     $image_id = $data->data['featured_media'];
-    wp_get_attachment_image_src($image_id, 'medium large');
+    $image_url = wp_get_attachment_image_src($image_id, 'medium large');
+
+    return $data;
+
 }
+add_filter('rest_prepare_temoignage', cf2m_URL_image_en_avant, 10, 1);
 
 // Ajouter un nouveau type de données : Projet
 function ajouterType_Temoignages() {
