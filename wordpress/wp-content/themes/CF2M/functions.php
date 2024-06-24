@@ -8,6 +8,12 @@ function cf2m_init_theme(){
 
 add_action('after_setup_theme', 'cf2m_init_theme');
 
+// Création de l'URL de l'image mis en avant 
+function cf2m_URL_image_en_avant($data) {
+    $image_id = $data->data['featured_media'];
+    wp_get_attachment_image_src($image_id, 'medium large');
+}
+
 // Ajouter un nouveau type de données : Projet
 function ajouterType_Temoignages() {
 	$labels = array(
