@@ -3,12 +3,12 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<h2>Spectral</h2>
-							<p>Another fine responsive<br />
-							site template freebie<br />
-							crafted by <a href="http://html5up.net">HTML5 UP</a>.</p>
+							<h2>BailGui.</h2>
+							<p>Baillieux Guillaume<br />
+							Web Developpeur Junior<br />
+							crafted by <a href="http://html5up.net">WordPress</a></p>
 							<ul class="actions special">
-								<li><a href="#" class="button primary">Activate</a></li>
+								<li><a href="images/CVBailGui.pdf" class="button primary">Download CV.</a></li>
 							</ul>
 						</div>
 						<a href="#one" class="more scrolly">Learn More</a>
@@ -18,10 +18,8 @@
 					<section id="one" class="wrapper style1 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Arcu aliquet vel lobortis ata nisl<br />
-								eget augue amet aliquet nisl cep donec</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<h2>Presentation</h2>
+								<p>Web development student at <a href='https://www.cf2m.be/formation/developpeur-web' target='_blank' style='text-decoration: none;'>CF2M</a>, I am currently looking for an internship opportunity from November for a duration of six weeks to complete my 14-month training in full-stack web development with the hope of being hired afterwards. <br><br><br> Trained in various languages such as HTML, CSS, JavaScript, PHP. I have also gained practical experience with frameworks and libraries such as Bootstrap, AJAX, Symphony, jQuery and CMS like WordPress. In addition, I have the ability to manipulate databases with MySQL and design a mockup with Figma. <br><br><br> My ambition is to join a company where I can not only contribute significantly while continuing to develop my knowledge. <br><br><br> This portfolio is a compilation of my completed and ongoing work, demonstrating my ability to successfully carry out web development projects. I invite you to browse it to get an overview of the evolution of my skills and my potential. <br><br><br> Guillaume Baillieux</p>
 							</header>
 							<ul class="icons major">
 								<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>
@@ -34,24 +32,42 @@
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
-								<h2>Magna primis lobortis<br />
-								sed ullamcorper</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+							<div class="image"><a id="sitePrefoImg" href="https://2023.webdev-cf2m.be/Guillaume/Siteprefo/" target="_blank" rel="noopener noreferrer"><img src="images/siteprefo.svg" alt="" /></a></div><div class="content">
+								<h2>CF2M Pre-training Site<br />
+								NOVEMBER 2023</h2>
+								<p>This project includes an interview with a Senior Web Developer and a presentation on video game preservation. Completed in 8 hours, this project illustrates the practical application of skills acquired during pre-training.<br><br> IMPLEMENTATION: 8h | CONTENT & DESIGN: 1 week. <br><br> HTML5 | CSS3 | NON-RESPONSIVE </p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
-								<h2>Tortor dolore feugiat<br />
-								elementum magna</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+						<a id="valOneImg" href="https://2023.webdev-cf2m.be/Guillaume/TI/Public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti1.svg" alt="" /></a></div><div class="content">
+								<h2>1st Validation <br />
+								DECEMBER 2023</h2>
+								<p> This validation project involves creating an exact replica of an existing tourist website using only the fundamental principles of HTML and CSS. The goal is to seamlessly integrate all visual and functional elements from the original site into the reproduction.<br><br> IMPLEMENTATION: 8 hours | CONTENT & DESIGN: /<br><br> HTML5 | CSS3 | NON-RESPONSIVE</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
-								<h2>Augue eleifend aliquet<br />
-								sed condimentum</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
+						<a id="valTwoImg" href="https://2023.webdev-cf2m.be/Guillaume/TI-2/public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti2v2.png" alt="" /></a></div><div class="content">
+								<h2>2nd Validation<br />
+								FEBRUARY 2024s</h2>
+								<p>This validation project includes the integration and creation of a guestbook. It will allow users to leave comments, with a system to collect, store, and display these entries. <br><br> IMPLEMENTATION: 6h | CONTENT & DESIGN: 2h <br><br> PHP | MYSQL | JS | HTML5 | CSS3 | FIGMA | RESPONSIVE </p>
+							</div>
+						</section>
+						<section class="spotlight">
+						<a id="valThreeImg" href="https://2023.webdev-cf2m.be/Guillaume/TI-3/public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti3.svg" alt="" /></a></div><div class="content">
+								<h2>3rd validation <br> APRIL 2024</h2>
+								<p> This validation project includes a website with an interactive map displaying points of interest. It features an administration interface for managing data and points of interest on the map. <br><br> IMPLEMENTATION: 8h | CONTENT & DESIGN: 6h <br><br> PHP | MYSQL | JS | BOOTSTRAP | HTML5 | CSS3 | RESPONSIVE</p>
+							</div>
+						</section>
+						<section class="spotlight">
+						<a id="JqueryImg" href="https://2023.webdev-cf2m.be/Guillaume/Jquery/bootjquery.html" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/jQueryLibrary.svg" alt="" /></a></div><div class="content">
+								<h2>jQueryLibrary <br> MAY 2024</h2>
+								<p> This project includes a library of different jQuery method. <br><br> IMPLEMENTATION: 10h | CONTENT & DESIGN: 2h <br><br> JQUERY| BOOTSTRAP | HTML5 | CSS3 | RESPONSIVE</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/sitejv.svg" alt="" /></div><div class="content">
+								<h2> Gaming News Site <br> Work in Progress </h2>
+								<p>Personal project for creating a website dedicated to news in the video game industry, covering both VR and console gaming.<br><br> IMPLEMENTATION: .. | CONTENT & DESIGN: .. <br><br> PHP | MYSQL | JS | BOOTSTRAP | HTML5 | CSS3 | FIGMA | RESPONSIVE</p></p>
 							</div>
 						</section>
 					</section>
