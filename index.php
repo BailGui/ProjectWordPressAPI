@@ -32,42 +32,48 @@
 				<!-- Two -->
 					<section id="two" class="wrapper alt style2">
 						<section class="spotlight">
-							<div class="image"><a id="sitePrefoImg" href="https://2023.webdev-cf2m.be/Guillaume/Siteprefo/" target="_blank" rel="noopener noreferrer"><img src="images/siteprefo.svg" alt="" /></a></div><div class="content">
+							<div class="image"><a id="sitePrefoImg" href="https://2023.webdev-cf2m.be/Guillaume/Siteprefo/" target="_blank" rel="noopener noreferrer"><img src="images/sp.png" alt="" /></a></div><div class="content">
 								<h2>CF2M Pre-training Site<br />
 								NOVEMBER 2023</h2>
 								<p>This project includes an interview with a Senior Web Developer and a presentation on video game preservation. Completed in 8 hours, this project illustrates the practical application of skills acquired during pre-training.<br><br> IMPLEMENTATION: 8h | CONTENT & DESIGN: 1 week. <br><br> HTML5 | CSS3 | NON-RESPONSIVE </p>
 							</div>
 						</section>
 						<section class="spotlight">
-						<a id="valOneImg" href="https://2023.webdev-cf2m.be/Guillaume/TI/Public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti1.svg" alt="" /></a></div><div class="content">
+						<a id="valOneImg" href="https://2023.webdev-cf2m.be/Guillaume/TI/Public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti1.png" alt="" /></a></div><div class="content">
 								<h2>1st Validation <br />
 								DECEMBER 2023</h2>
 								<p> This validation project involves creating an exact replica of an existing tourist website using only the fundamental principles of HTML and CSS. The goal is to seamlessly integrate all visual and functional elements from the original site into the reproduction.<br><br> IMPLEMENTATION: 8 hours | CONTENT & DESIGN: /<br><br> HTML5 | CSS3 | NON-RESPONSIVE</p>
 							</div>
 						</section>
 						<section class="spotlight">
-						<a id="valTwoImg" href="https://2023.webdev-cf2m.be/Guillaume/TI-2/public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti2v2.png" alt="" /></a></div><div class="content">
+						<a id="valTwoImg" href="https://2023.webdev-cf2m.be/Guillaume/TI-2/public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti2.png" alt="" /></a></div><div class="content">
 								<h2>2nd Validation<br />
 								FEBRUARY 2024s</h2>
 								<p>This validation project includes the integration and creation of a guestbook. It will allow users to leave comments, with a system to collect, store, and display these entries. <br><br> IMPLEMENTATION: 6h | CONTENT & DESIGN: 2h <br><br> PHP | MYSQL | JS | HTML5 | CSS3 | FIGMA | RESPONSIVE </p>
 							</div>
 						</section>
 						<section class="spotlight">
-						<a id="valThreeImg" href="https://2023.webdev-cf2m.be/Guillaume/TI-3/public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/ti3.svg" alt="" /></a></div><div class="content">
+						<a id="valThreeImg" href="https://2023.webdev-cf2m.be/Guillaume/TI-3/public/" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/guigle.png" alt="" /></a></div><div class="content">
 								<h2>3rd validation <br> APRIL 2024</h2>
 								<p> This validation project includes a website with an interactive map displaying points of interest. It features an administration interface for managing data and points of interest on the map. <br><br> IMPLEMENTATION: 8h | CONTENT & DESIGN: 6h <br><br> PHP | MYSQL | JS | BOOTSTRAP | HTML5 | CSS3 | RESPONSIVE</p>
 							</div>
 						</section>
 						<section class="spotlight">
-						<a id="JqueryImg" href="https://2023.webdev-cf2m.be/Guillaume/Jquery/bootjquery.html" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/jQueryLibrary.svg" alt="" /></a></div><div class="content">
+						<a id="JqueryImg" href="https://2023.webdev-cf2m.be/Guillaume/Jquery/bootjquery.html" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/jquery.png" alt="" /></a></div><div class="content">
 								<h2>jQueryLibrary <br> MAY 2024</h2>
-								<p> This project includes a library of different jQuery method. <br><br> IMPLEMENTATION: 10h | CONTENT & DESIGN: 2h <br><br> JQUERY| BOOTSTRAP | HTML5 | CSS3 | RESPONSIVE</p>
+								<p> This project includes a library of different jQuery method. <br><br> IMPLEMENTATION: 10h | CONTENT & DESIGN: 2h <br><br> JQUERY | BOOTSTRAP | HTML5 | CSS3 | RESPONSIVE</p>
 							</div>
 						</section>
 						<section class="spotlight">
-							<div class="image"><img src="images/sitejv.svg" alt="" /></div><div class="content">
+						<a id="JqueryImg" href="https://2023.webdev-cf2m.be/Guillaume/MissionLocale/accueil.html" target="_blank" rel="noopener noreferrer"><div class="image"><img src="images/mls.png" alt="" /></a></div><div class="content">
+								<h2>Mission Locale Saint-Gilles<br> JUNE 2024</h2>
+								<p>This project is a creation of a fictitious site for the local mission of Saint-Gilles<br><br> IMPLEMENTATION: 22h | CONTENT & DESIGN: 10h <br><br> JQUERY | BOOTSTRAP | HTML5 | CSS3 | RESPONSIVE</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/sitejv.png" alt="" /></div><div class="content">
 								<h2> Gaming News Site <br> Work in Progress </h2>
-								<p>Personal project for creating a website dedicated to news in the video game industry, covering both VR and console gaming.<br><br> IMPLEMENTATION: .. | CONTENT & DESIGN: .. <br><br> PHP | MYSQL | JS | BOOTSTRAP | HTML5 | CSS3 | FIGMA | RESPONSIVE</p></p>
+								<p>Personal project for creating a website dedicated to news in the video game industry, covering both VR and Flat console gaming.<br><br> IMPLEMENTATION: .. | CONTENT & DESIGN: .. <br><br> PHP | MYSQL | JS | BOOTSTRAP | HTML5 | CSS3 | FIGMA | RESPONSIVE</p></p>
 							</div>
 						</section>
 					</section>
@@ -76,9 +82,8 @@
 					<section id="three" class="wrapper style3 special">
 						<div class="inner">
 							<header class="major">
-								<h2>Accumsan mus tortor nunc aliquet</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />
-								fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.</p>
+								<h2>My Skills</h2>
+								<p>Find my different skills here</p>
 							</header>
 							<ul class="features">
 								<li class="icon fa-paper-plane">
@@ -122,10 +127,10 @@
 											<div class="col-12">
 												<select name="demo-category" id="demo-category">
 													<option value="">- Category -</option>
-													<option value="1">Manufacturing</option>
-													<option value="1">Shipping</option>
-													<option value="1">Administration</option>
-													<option value="1">Human Resources</option>
+													<option value="1">Job offer</option>
+													<option value="1">Simple question</option>
+													<option value="1">Project</option>
+													<option value="1">Other</option>
 												</select>
 											</div>
 											<div class="col-4 col-12-small">
