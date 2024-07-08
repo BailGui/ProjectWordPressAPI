@@ -114,7 +114,7 @@
 						</div>
 					</section>
 
-					<section>
+					<section id="four">
 									<h4>Form</h4>
 									<form method="post" action="#">
 										<div class="row gtr-uniform">

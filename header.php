@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Spectral by HTML5 UP</title>
+		<title>BailGui. Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -26,11 +26,10 @@
 									<a href="#menu" class="menuToggle"><span>Menu</span></a>
 									<div id="menu">
 										<ul>
-											<li><a href="index.php">Home</a></li>
-											<li><a href="generic.php">Generic</a></li>
-											<li><a href="elements.php">Elements</a></li>
-											<li><a href="#">Sign Up</a></li>
-											<li><a href="#">Log In</a></li>
+											<li><a href="index.php">Accueil</a></li>
+											<li><a href="#one">Presentation</a></li>
+											<li><a href="#two">Projects</a></li>
+											<li><a href="#four">Contact</a></li>
 										</ul>
 									</div>
 								</li>
